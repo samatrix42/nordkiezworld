@@ -259,7 +259,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#cc0000\" }"
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#330000\", APP_NAME: 'meet.fr33.info', DEFAULT_LOGO_URL: 'https:\/\/10247.net\/img\/10247.png'}"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -299,6 +299,11 @@
          "name":"jitsiChillout",
          "opacity":1,
          "properties":[
+                {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#330000\", APP_NAME: 'meet.fr33.info', DEFAULT_LOGO_URL: 'https:\/\/10247.net\/img\/10247.png'}"
+                }, 
                 {
                  "name":"jitsiRoom",
                  "type":"string",
