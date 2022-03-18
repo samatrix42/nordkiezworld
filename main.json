@@ -257,6 +257,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiInterfaceConfig",
+                 "type":"string",
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#cc0000\" }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"SamaTresen"
