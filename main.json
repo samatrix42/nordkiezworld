@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":38,
  "infinite":false,
  "layers":[
@@ -263,6 +270,11 @@
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Willkommen an der Bar! :: Press SPACE or touch here to enter Jitsi Meet room"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.fr33.info"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -291,6 +303,11 @@
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"Chillout Area :: Press SPACE or touch here to enter Jitsi Meet room"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.fr33.info"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -467,7 +484,7 @@
          "value":"sAmaTriX - a fictional Bar somewhere in Nowhere"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -1103,6 +1120,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":46
 }
